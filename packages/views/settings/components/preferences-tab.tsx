@@ -30,7 +30,7 @@ import {
   SettingsRow,
   SettingsSection,
   SettingsTab,
-} from "./settings-layout";
+} from "../../layout/settings-layout";
 
 export function PreferencesTab() {
   const { theme, setTheme } = useTheme();

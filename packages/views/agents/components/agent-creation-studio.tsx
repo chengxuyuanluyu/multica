@@ -74,7 +74,7 @@ import { ActorAvatar } from "../../common/actor-avatar";
 import {
   SettingsCard,
   SettingsSection,
-} from "../../settings/components/settings-layout";
+} from "../../layout/settings-layout";
 import { ModelDropdown } from "./model-dropdown";
 import { CharCounter } from "./char-counter";
 import { ServiceTierSettingField } from "./inspector/service-tier-setting-field";

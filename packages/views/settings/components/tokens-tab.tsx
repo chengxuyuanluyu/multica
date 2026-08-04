@@ -38,7 +38,7 @@ import { copyText } from "@multica/ui/lib/clipboard";
 import { toast } from "sonner";
 import { api } from "@multica/core/api";
 import { useT } from "../../i18n";
-import { SettingsSection, SettingsTab } from "./settings-layout";
+import { SettingsSection, SettingsTab } from "../../layout/settings-layout";
 
 const EXPIRY_KEYS = ["30", "90", "365", "never"] as const;
 

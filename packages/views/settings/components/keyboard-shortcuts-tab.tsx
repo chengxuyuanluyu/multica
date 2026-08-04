@@ -38,7 +38,7 @@ import {
   SettingsRow,
   SettingsSection,
   SettingsTab,
-} from "./settings-layout";
+} from "../../layout/settings-layout";
 
 type CaptureError =
   | { kind: "conflict"; actionId: ShortcutActionId }

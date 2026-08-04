@@ -62,7 +62,7 @@ import {
 import { cn } from "@multica/ui/lib/utils";
 import { AgentPicker } from "../../autopilots/components/pickers/agent-picker";
 import { useT } from "../../i18n";
-import { SettingsTab } from "./settings-layout";
+import { SettingsTab } from "../../layout/settings-layout";
 
 // Quick Actions catalog (MUL-5465).
 //

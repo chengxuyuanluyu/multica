@@ -18,7 +18,7 @@ import { useT } from "../../../i18n";
 import {
   SettingsCard,
   SettingsSection,
-} from "../../../settings/components/settings-layout";
+} from "../../../layout/settings-layout";
 
 interface ArgEntry {
   id: string;

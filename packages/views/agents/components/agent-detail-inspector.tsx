@@ -22,7 +22,7 @@ import {
   SettingsRow,
   SettingsSaveState,
   SettingsSection,
-} from "../../settings/components/settings-layout";
+} from "../../layout/settings-layout";
 import { useAutoSave } from "../../settings/components/use-auto-save";
 import { useT } from "../../i18n";
 import { CharCounter } from "./char-counter";

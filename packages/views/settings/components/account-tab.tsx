@@ -14,7 +14,7 @@ import {
   SettingsSaveState,
   SettingsSection,
   SettingsTab,
-} from "./settings-layout";
+} from "../../layout/settings-layout";
 import { useAutoSave } from "./use-auto-save";
 
 // Mirror server/internal/handler/auth.go:MaxProfileDescriptionLen. Counted in

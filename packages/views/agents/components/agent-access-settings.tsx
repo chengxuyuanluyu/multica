@@ -4,7 +4,7 @@ import type { Agent, MemberWithUser } from "@multica/core/types";
 import {
   SettingsCard,
   SettingsSection,
-} from "../../settings/components/settings-layout";
+} from "../../layout/settings-layout";
 import { useT } from "../../i18n";
 import { AccessPicker } from "./inspector/access-picker";
 

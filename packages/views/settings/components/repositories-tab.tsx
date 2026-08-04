@@ -58,7 +58,7 @@ import {
   SettingsSaveState,
   SettingsSection,
   SettingsTab,
-} from "./settings-layout";
+} from "../../layout/settings-layout";
 import { useAutoSave } from "./use-auto-save";
 import { GitHubMark } from "./github-mark";
 

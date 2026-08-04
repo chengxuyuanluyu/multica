@@ -9,7 +9,7 @@ import {
   EmptyTitle,
 } from "@multica/ui/components/ui/empty";
 import { useT } from "../../i18n";
-import { SettingsCard, SettingsTab } from "./settings-layout";
+import { SettingsCard, SettingsTab } from "../../layout/settings-layout";
 
 // The Co-authored-by trailer toggle moved into the dedicated GitHub Settings
 // tab (see github-tab.tsx). Labs is kept as a container for future

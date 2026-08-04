@@ -30,7 +30,7 @@ import { api } from "@multica/core/api";
 import type { Workspace } from "@multica/core/types";
 import { useNavigation } from "../../navigation";
 import { useT } from "../../i18n";
-import { SettingsTab } from "./settings-layout";
+import { SettingsTab } from "../../layout/settings-layout";
 import { GitHubMark } from "./github-mark";
 
 type SettingsKey =

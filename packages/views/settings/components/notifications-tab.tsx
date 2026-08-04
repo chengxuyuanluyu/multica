@@ -14,7 +14,7 @@ import {
   SettingsRow,
   SettingsSection,
   SettingsTab,
-} from "./settings-layout";
+} from "../../layout/settings-layout";
 
 // Inbox event groups rendered in the per-event toggle list. `system_notifications`
 // is a sibling preference key but lives in its own section below.

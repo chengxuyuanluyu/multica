@@ -43,7 +43,7 @@ import {
 import { cn } from "@multica/ui/lib/utils";
 import { ColorPicker, COLOR_PICKER_PRESETS } from "../../common/color-picker";
 import { useT } from "../../i18n";
-import { SettingsTab } from "./settings-layout";
+import { SettingsTab } from "../../layout/settings-layout";
 
 /**
  * Label scopes this settings tab manages. Narrower than `LabelResourceType`:

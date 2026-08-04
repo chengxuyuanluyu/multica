@@ -44,7 +44,7 @@ import {
   SettingsSection,
   SettingsTab,
   type SettingsSaveStatus,
-} from "./settings-layout";
+} from "../../layout/settings-layout";
 import { useAutoSave } from "./use-auto-save";
 
 interface WorkspaceDetailsDraft {

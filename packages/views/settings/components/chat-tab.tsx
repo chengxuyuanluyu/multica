@@ -9,7 +9,7 @@ import {
   SettingsRow,
   SettingsSection,
   SettingsTab,
-} from "./settings-layout";
+} from "../../layout/settings-layout";
 
 /**
  * Chat settings — its own tab under "My Account". Currently just the

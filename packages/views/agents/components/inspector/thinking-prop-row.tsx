@@ -5,7 +5,7 @@ import type { ReactNode } from "react";
 import type { RuntimeModel } from "@multica/core/types";
 import { runtimeModelsOptions } from "@multica/core/runtimes";
 import { PropRow } from "../../../common/prop-row";
-import { SettingsRow } from "../../../settings/components/settings-layout";
+import { SettingsRow } from "../../../layout/settings-layout";
 import { useT } from "../../../i18n";
 import { ThinkingPicker } from "./thinking-picker";
 

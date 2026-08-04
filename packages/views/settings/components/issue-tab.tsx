@@ -13,7 +13,7 @@ import {
   SettingsRow,
   SettingsSection,
   SettingsTab,
-} from "./settings-layout";
+} from "../../layout/settings-layout";
 
 /**
  * Issue settings — its own tab under "My Account". One group per create-issue

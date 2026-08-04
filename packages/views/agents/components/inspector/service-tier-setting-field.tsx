@@ -12,7 +12,7 @@ import {
   PickerItem,
   PropertyPicker,
 } from "../../../issues/components/pickers";
-import { SettingsRow } from "../../../settings/components/settings-layout";
+import { SettingsRow } from "../../../layout/settings-layout";
 import { useT } from "../../../i18n";
 
 /**

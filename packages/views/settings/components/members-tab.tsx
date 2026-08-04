@@ -43,7 +43,7 @@ import { useCurrentWorkspace } from "@multica/core/paths";
 import { memberListOptions, invitationListOptions, workspaceKeys } from "@multica/core/workspace/queries";
 import { api } from "@multica/core/api";
 import { useT } from "../../i18n";
-import { SettingsCard, SettingsSection, SettingsTab } from "./settings-layout";
+import { SettingsCard, SettingsSection, SettingsTab } from "../../layout/settings-layout";
 
 const ROLE_ICONS: Record<MemberRole, typeof Crown> = {
   owner: Crown,

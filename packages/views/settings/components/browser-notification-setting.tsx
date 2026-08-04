@@ -10,7 +10,7 @@ import {
 import { Button } from "@multica/ui/components/ui/button";
 import { isDesktopShell } from "../../platform";
 import { useT } from "../../i18n";
-import { SettingsCard, SettingsRow } from "./settings-layout";
+import { SettingsCard, SettingsRow } from "../../layout/settings-layout";
 
 /**
  * Web-only control for the browser permission that native notification banners

@@ -6,7 +6,8 @@ export {
   SettingsSaveState,
   SettingsSection,
   SettingsTab,
-} from "./components/settings-layout";
+} from "../layout/settings-layout";
 export type {
+  SettingsControlSize,
   SettingsSaveStatus,
-} from "./components/settings-layout";
+} from "../layout/settings-layout";

@@ -77,7 +77,7 @@ import {
   PropertyIconPicker,
 } from "../../common/property-icon";
 import { useT } from "../../i18n";
-import { SettingsTab } from "./settings-layout";
+import { SettingsTab } from "../../layout/settings-layout";
 
 const MAX_ACTIVE_PROPERTIES = 20;
 

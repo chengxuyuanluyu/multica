@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState } from "react";
-import type { SettingsSaveStatus } from "./settings-layout";
+import type { SettingsSaveStatus } from "../../layout/settings-layout";
 
 interface UseAutoSaveOptions<T> {
   value: T;
